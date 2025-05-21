@@ -9,15 +9,10 @@ SAMPLE_INTENTS = {
         "Calmness is my goal",
         "Let the world be tranquil"
     ],
-    "Vīryam": [
-        "I will fight with courage",
-        "Strength arises within me",
-        "Let us act with power and resolve"
-    ],
-    "Karunā": [
-        "I feel deep compassion for others",
-        "May all beings be happy and free",
-        "This suffering touches my heart"
+    "Ānandaḥ": [
+        "Joy arises from within",
+        "Let bliss guide every action",
+        "I am one with divine joy"
     ],
     "Bhaktiḥ": [
         "I surrender to the divine",
@@ -29,20 +24,25 @@ SAMPLE_INTENTS = {
         "Knowledge is the path to liberation",
         "Let wisdom light the way"
     ],
-    "Utsāha": [
+    "Vīryam": [
+        "I will fight with courage",
+        "Strength arises within me",
+        "Let us act with power and resolve"
+    ],
+    "Utsāhaḥ": [
         "I feel energized and motivated",
         "Let's take this challenge with enthusiasm",
         "There's so much to do and I'm ready"
+    ],
+    "Karunā": [
+        "I feel deep compassion for others",
+        "May all beings be happy and free",
+        "This suffering touches my heart"
     ],
     "Raudram": [
         "This injustice must be destroyed",
         "Let fury cleanse the wrongs",
         "I burn with righteous anger"
-    ],
-    "Ādaraḥ": [
-        "I value your opinion deeply",
-        "Let’s listen with respect",
-        "Honor each person equally"
     ],
     "Vismayaḥ": [
         "This fills me with wonder",
@@ -54,10 +54,75 @@ SAMPLE_INTENTS = {
         "This is truly hilarious",
         "Laughter is healing"
     ],
-    "Śṛṅgāraḥ": [
+    "Śokaḥ": [
+        "My heart is heavy with grief",
+        "Tears cleanse the soul",
+        "Let me mourn and heal"
+    ],
+    "Bhayaṁ": [
+        "I feel fear but I face it",
+        "This unknown frightens me",
+        "Even fear has a message"
+    ],
+    "Jugupsā": [
+        "I must reject what is impure",
+        "This disgust calls for cleansing",
+        "Let me purify my surroundings"
+    ],
+    "Ratiḥ": [
         "I feel so much love for you",
         "Let beauty and romance bloom",
         "This love is divine"
+    ],
+    "Ādaraḥ": [
+        "I value your opinion deeply",
+        "Let’s listen with respect",
+        "Honor each person equally"
+    ],
+    "Lajjā": [
+        "I feel shy and modest",
+        "Let humility protect me",
+        "I bow in sacred shame"
+    ],
+    "Smṛtiḥ": [
+        "I remember the ancient wisdom",
+        "The past speaks through memory",
+        "Let remembrance guide my steps"
+    ],
+    "Dhṛtiḥ": [
+        "I hold firm in adversity",
+        "Endurance is my inner strength",
+        "Let steadfastness light my path"
+    ],
+    "Śraddhā": [
+        "I trust the process",
+        "My faith is unwavering",
+        "Let deep conviction sustain me"
+    ],
+    "Āśā": [
+        "Hope lifts my spirit",
+        "A better future is possible",
+        "Let this hope carry me forward"
+    ],
+    "Mamatā": [
+        "I feel affectionate closeness",
+        "This is my own, my heart says",
+        "Let care and bonding grow"
+    ],
+    "Tṛṣṇā": [
+        "I yearn for more",
+        "Desire pulls me forward",
+        "Let me transform craving into clarity"
+    ],
+    "Mohaḥ": [
+        "I'm lost in illusion",
+        "Attachment clouds my sight",
+        "Let clarity dispel delusion"
+    ],
+    "Harṣaḥ": [
+        "Joy bubbles within me",
+        "Let us celebrate success",
+        "This happiness is contagious"
     ]
 }
 
